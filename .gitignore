@@ -1,0 +1,5 @@
+node_modules/
+dist/
+mycelium-game.zip
+.DS_Store
+*.local
